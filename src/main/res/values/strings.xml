@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="title">iPhone vs. Android: What are the pros and cons?</string>
+    <string name="author">Author: Idowu Temilayo\n</string>
+    <string name="paragraph_1">Android pros:\n
+        \t1. Large app store and share of production google play has at least 4 times more apps than the app store with over 70% of mobile development being for android devices.
+        \n\t2. You can get a whole lot of different phones in different shapes and sizes and shapes even with curved screens and all.
+        \n\t3. A lot of competition goes on among device manufactures so you can really get your moneys worth.
+        \n\t4. Androids can be utilized for a whole lot of things you can even emulate windows on a good android phone.
+        \n\t5. You can truly make your phone yours with endless customization options from creative developers.
+        \n\t6. Your OEMs will not throttle your phone to amuse themselves,or force you to buy the latest *cough* apples.
+        \n\t7.Your phone isnt going to be the same as that of the human next to you most likely. unlike the err X.\n
+    </string>
+    <string name="androidImage">Android</string>
+    <string name="iosImage">iOS</string>
+    <string name="androidvsios">Android vs iOS</string>
+    <string name="paragraph_2">iOS pros:\n
+        \n\t1. It has this prestigious logo people instantly know what it is.
+        \n\t2. People know you have the money to throw- *cough* spend.
+        \n\t3. If you are not too far behind (iphone 7s) at least you will be able to utilize all of the apps on the app store to their full potential except, well maybe snapchat.
+        \n\t4. You spend less time worrying about which app you want to do something to pick as apple graciously provides us with limited options.
+        \n\t5. Your iphone basically runs the same as all the other copies.
+        \n\t6. You can bond with strangers who have the same colour and model as you.
+        \n\t7. Easy? fixes since all the apple technicians are trained for that.
+    </string>
+    <string name="paragraph_3">Android cons:\n
+        \n\t1. Not so easy to fix.
+        \n\t2. You need to know your specs.
+        \n\t3. Shady fraudulent OEMs.
+        \n\n\tiOS cons:
+        \n\t1. Less apps than android.
+        \n\t2. Your OEM might release patches to throttle your phone,just for laughs.
+        \n\t3. Little customization options.
+        \n\t4. Really expensive one can attract criminals in some places although the same goes for android, you cant really tell definitely not instantly.
+        \n\t5. No earphone jack this should be a pro tho since no one wants them,,,,-_-
+    </string>
+</resources>
